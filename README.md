@@ -11,3 +11,4 @@ Este projeto foi desenvolvido para analisar as competências mais requisitadas e
 
 ### 📈 Resultado
 O script gera um gráfico (`grafico_vagas.png`) que ajuda a identificar visualmente quais ferramentas são prioridade para o mercado de análise atual.
+![Resultado da Análise](grafico_vagas.png)
